@@ -25,7 +25,7 @@ namespace Cookbook.Controllers
         public ActionResult FacebookLogin(string token)
         {
             WebClient client = new WebClient();
-            string JsonResult = client.DownloadString(string.Format("https://graph.facebook.com/me?fields=first_name,last_name&access_token=", token));
+            string JsonResult = client.DownloadString(string.Format("https://graph.facebook.com/me?fields=first_name,last_name&access_token={0}", token));
              JObject jsonUserInfo = JObject.Parse(JsonResult);
 
             Session["Ten"] = jsonUserInfo.Value<string>("first_name");
