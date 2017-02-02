@@ -274,6 +274,5 @@ E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\bin\ko\System.Spatial.re
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\bin\ru\System.Spatial.resources.dll
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\bin\zh-Hans\System.Spatial.resources.dll
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\bin\zh-Hant\System.Spatial.resources.dll
-E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\obj\Debug\Cookbook.dll
 E:\Study\HCDH\HKIV\KCPM\CookBook\KCPM-CookBook\Cookbook\obj\Debug\Cookbook.pdb
